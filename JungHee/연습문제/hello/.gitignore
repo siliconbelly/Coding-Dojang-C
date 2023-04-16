@@ -400,3 +400,4 @@ FodyWeavers.xsd
 hello/*.vcxproj
 hello/*.filters
 hello/*.user
+*.sln
