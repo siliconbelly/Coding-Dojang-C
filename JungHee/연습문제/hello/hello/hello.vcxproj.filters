@@ -18,7 +18,10 @@
     <ClCompile Include="hello.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="3-7practice.c">
+    <ClCompile Include="3-7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3-8.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -127,7 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="3-7practice.c" />
+    <ClCompile Include="3-7.c" />
+    <ClCompile Include="3-8.c" />
     <ClCompile Include="hello.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
